@@ -37,9 +37,9 @@ Ejemplo de body para POST y PUT
 ```
 Códigos de respuesta 
 
-200 OK
-201 Cliente creado exitosamente 
-400 Faltan campos obligatorios 
-404 Cliente no encontrado 
-409 El email ya está registrado 
-500 Error interno del servidor
+- 200 OK
+- 201 Cliente creado exitosamente 
+- 400 Faltan campos obligatorios 
+- 404 Cliente no encontrado 
+- 409 El email ya está registrado 
+- 500 Error interno del servidor
